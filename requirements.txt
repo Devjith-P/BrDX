@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit
+tensorflow
+scikit-learn
+joblib
+cv2
