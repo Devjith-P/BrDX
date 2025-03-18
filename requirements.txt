@@ -1,8 +1,8 @@
-streamlit
-numpy
-pandas
-scikit
-tensorflow
-scikit-learn
-joblib
-cv2
+streamlit>=1.41.1
+numpy>=2.0.2
+pandas>=2.2.3
+
+tensorflow>=2.18.0
+scikit-learn>=1.6.1
+joblib>=1.4.2
+cv2>=4.11.0.86
