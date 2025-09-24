@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore system/IDE files
+.vscode/
+dist/
+*.log
+
+# Ignore large model files
+
+*.h5
+*.pt
+*.ckpt
